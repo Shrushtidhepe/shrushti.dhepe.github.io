@@ -1,3 +1,16 @@
+.banner img{width: 100%;}
+.heading {color: rgb(224, 101, 13); position: absolute; top: 25%; width: 100%; text-align: center; font-size: 500%;}
+.headingf {color: rgb(224, 101, 13); position: absolute; top: 37%; width: 100%; text-align: center; font-size: 500%;}
+.paragraph {color: rgb(254, 253, 252); position: absolute; top: 55%; left: 15%; width: 45%; text-align: left; font-size: 140%;}
+.socialmedia {color: rgb(252, 251, 251); position: absolute; top: 71%; left: 15%; width: 100%; text-align: left; font-size: 140%;}
+.facebook {position: absolute; top: 77.26%; left: 15%; width: 100%; text-align: left; font-size: 160%;}
+.instagram {position: absolute; top: 77%; left: 18%; width: 100%; text-align: left; font-size: 190%;}
+.whatsapp {position: absolute; top: 77.2%; left: 21.8%; width: 100%; text-align: left; font-size: 180%;}
+.linkedin {position: absolute; top: 77.50%; left: 25.8%; width:100%; text-align: left; font-size: 180%;}
+.telegram {position: absolute; top: 77.50%; left: 29.4%; width:100%; text-align: left; font-size: 180%;}
+.github {position: absolute; top: 77.50%; left: 33.2%; width:100%; text-align: left; font-size: 180%;}
+
+
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 /*===== VARIABLES CSS =====*/
@@ -324,19 +337,19 @@ img {
 }
 
 .skills__html {
-  width: 95%;
+  width: 85%;
 }
 
 .skills__css {
-  width: 85%;
+  width: 83%;
 }
 
 .skills__js {
-  width: 65%;
+  width: 84%;
 }
 
-.skills__ux {
-  width: 85%;
+.skills__python {
+  width: 90%;
 }
 
 .skills__img {
